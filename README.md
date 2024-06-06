@@ -1,8 +1,10 @@
 SQL Injection Detection Using Deep Learning(2D CNN):
-Motivation:
+
+
 SQL injection remains one of the most prevalent and dangerous security vulnerabilities in web applications. By exploiting this weakness, attackers can manipulate database queries, leading to unauthorized access, data breaches, and potentially severe financial and reputational damage. Traditional security measures often fail to detect sophisticated SQL injection patterns. Motivated by the need for a more robust and automated solution, this project leverages deep learning to detect SQL injection attempts effectively, thereby enhancing the security posture of web applications.
 
 Project Overview:
+
 This project aims to build a deep learning model using a 2D Convolutional Neural Network (CNN) to classify input queries as either SQL injection attempts or normal user inputs. The project involves several key steps: data collection and preprocessing, model architecture design, training and evaluation, and deployment.
 Steps Involved:
 1. Data Collection and Preprocessing:
