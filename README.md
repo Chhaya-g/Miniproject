@@ -28,10 +28,12 @@ Dense Layer: Fully connected layer for final classification.
 
 4. Training and Evaluation:
 Training: Train the model using the training data and validate its performance using the test data.
+
 Evaluation: Evaluate the model's accuracy and loss on the test set.
 
-5. Deployment:
+6. Deployment:
 Save Model: Save the trained model for future use.
+
 Load Model: Load the model for inference.
 
 Results:
