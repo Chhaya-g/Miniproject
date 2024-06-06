@@ -17,16 +17,20 @@ Padding: Ensuring all input sequences have a uniform length by padding shorter s
 2. Model Architecture Design:
 Architecture:
 Embedding Layer: Converts input sequences into dense vectors.
+
 Convolutional Layer: Applies convolutional filters to capture local patterns.
+
 GlobalMaxPooling Layer: Reduces the dimensionality and retains important features.
+
 LSTM Layer: Captures long-range dependencies within the sequences.
+
 Dense Layer: Fully connected layer for final classification.
 
-3. Training and Evaluation:
+4. Training and Evaluation:
 Training: Train the model using the training data and validate its performance using the test data.
 Evaluation: Evaluate the model's accuracy and loss on the test set.
 
-4. Deployment:
+5. Deployment:
 Save Model: Save the trained model for future use.
 Load Model: Load the model for inference.
 
