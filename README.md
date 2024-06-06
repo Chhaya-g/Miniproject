@@ -36,20 +36,8 @@ Model Improvement: Experiment with different architectures, hyperparameters, and
 Real-time Integration: Integrate the model into web application firewalls (WAFs) and intrusion detection systems (IDS) for real-time SQL injection detection.
 Adversarial Robustness: Enhance the model's robustness against adversarial attacks and sophisticated evasion techniques.
 
-Repository Structure
-.
-├── data
-│   └── mergecsv.csv
-├── models
-│   └── sql_injection_detection_model.h5
-├── notebooks
-│   └── SQLinjectiondetection2DCNN.ipynb
-├── src in notebook
-│   ├── preprocess.py
-│   ├── train.py
-│   ├── evaluate.py
-│   └── predict.py
-├── README.md
-└── cnn.md
+Repository Structure:
+![image](https://github.com/Chhaya-g/Miniproject/assets/117031436/51ff6ebc-8f7f-4456-8799-b03ea60aa3d2)
+
 
 
